@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thre4t&label=Profile%20views&color=0e75b6&style=flat" alt="thre4t" /> </p>
 
-- 🔭 I’m currently working on [Candy Museum](https://mycandymuseum.netlify.app)
+- 🔭 You can see my project here [Candy Museum](https://mycandymuseum.netlify.app)
 
 - 🌱 I’m currently learning **Python,Figma and Front-End Development.**
 
